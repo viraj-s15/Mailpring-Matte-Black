@@ -1,0 +1,11 @@
+{
+  "name": "matte-black",
+  "displayName": "Matt Black",
+  "theme": "ui",
+  "version": "1",
+  "description": "",
+  "license": "",
+  "engines": {
+    "mailspring": "*"
+  }
+}
